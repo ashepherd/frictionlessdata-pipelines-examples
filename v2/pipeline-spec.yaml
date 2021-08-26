@@ -1,0 +1,40 @@
+v03:
+  title: Testing Joins w. Dataset 3773
+  pipeline:
+    -
+      run: load_metadata
+      parameters:
+        url: ./datapackage.json
+    -
+      run: add_resource
+      parameters:
+        name: 'cruise-key'
+        url: "./cruises.tsv"
+        format: tsv
+    -
+      run: load_resource
+      parameters:
+        url: ./datapackage.json
+        resource: dataset_3773
+    -
+      run: stream_remote_resources
+      cache: True
+    -
+      run: join
+      parameters:
+        source:
+          name: 'cruise-key'
+          key: ["Cruise Id"]
+          delete: yes
+        target:
+          name: 'dataset_3773'
+          key: ["cruise_name"]
+        fields:
+          cruise DOI:
+            name: "DOI"
+        full: true
+    -
+      run: dump.to_path
+      parameters:
+          out-path: result
+          handle-non-tabular: true
