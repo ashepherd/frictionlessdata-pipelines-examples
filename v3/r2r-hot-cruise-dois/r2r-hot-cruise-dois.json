@@ -1,0 +1,1459 @@
+{
+  "head": {
+    "vars": [ "cruise" , "cruise_id" , "doi" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/CNTL11RR" } ,
+        "cruise_id": { "type": "literal" , "value": "CNTL11RR" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904595" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/EW9507" } ,
+        "cruise_id": { "type": "literal" , "value": "EW9507" } ,
+        "doi": { "type": "literal" , "value": "10.7284/901339" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-001" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-001" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906970" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-002" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-002" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906971" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-003" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-003" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906972" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-004" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-004" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906973" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-005" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-005" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906974" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-006" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-006" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906975" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-007" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-007" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906976" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-008" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-008" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906977" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-009" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-009" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906978" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-010" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-010" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906979" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-012" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-012" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906981" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-013" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-013" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906982" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-014" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-014" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906983" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-015" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-015" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906984" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-016" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-016" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906985" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-017" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-017" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906986" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-018" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-018" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906987" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-019" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-019" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906988" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-020" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-020" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906989" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-021" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-021" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906990" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-022" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-022" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906991" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-023" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-023" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906992" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-024" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-024" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906993" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-025" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-025" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906994" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-026" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-026" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906995" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-027" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-027" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906996" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-028" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-028" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906997" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-029" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-029" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906998" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-030" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-030" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906999" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-031" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-031" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907000" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-032" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-032" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907001" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-033" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-033" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907002" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-034" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-034" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907003" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-035" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-035" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907004" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-036" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-036" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907005" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-037" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-037" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907006" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-039" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-039" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907008" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-040" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-040" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907009" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-041" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-041" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907010" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-042" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-042" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907011" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-043" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-043" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907012" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-044" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-044" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907013" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-045" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-045" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907014" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-046" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-046" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907015" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-047" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-047" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907016" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-048" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-048" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907017" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-049" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-049" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907018" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-050" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-050" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907019" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-051" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-051" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907020" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-052" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-052" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907021" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-053" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-053" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907022" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-054" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-054" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907023" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-055" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-055" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907024" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-056" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-056" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907025" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-057" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-057" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907026" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-058" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-058" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907027" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-059" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-059" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907028" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-060" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-060" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907029" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-061" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-061" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907030" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-062" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-062" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907031" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-063" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-063" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907032" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-065" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-065" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907033" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-066" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-066" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907034" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-067" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-067" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907035" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-068" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-068" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907036" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-069" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-069" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907037" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-070" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-070" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907038" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-071" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-071" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907039" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-072" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-072" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907040" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-073" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-073" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907041" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-074" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-074" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907042" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-075" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-075" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907043" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-076" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-076" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907044" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-077" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-077" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907045" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-078" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-078" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907046" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-079" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-079" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907047" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-080" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-080" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907048" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-081" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-081" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907049" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-082" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-082" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907050" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-083" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-083" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907051" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-084" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-084" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907052" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-085" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-085" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907053" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-086" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-086" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907054" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-088" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-088" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907056" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-089" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-089" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907057" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-090" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-090" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907058" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-091" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-091" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907059" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-092" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-092" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907060" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-094" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-094" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907062" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-095" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-095" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907063" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-098" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-098" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907066" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-099" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-099" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907067" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-100" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-100" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907068" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-106" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-106" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907071" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-107" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-107" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907072" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-108" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-108" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907073" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-109" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-109" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907074" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-110" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-110" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907075" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-139" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-139" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907076" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/HOT-141" } ,
+        "cruise_id": { "type": "literal" , "value": "HOT-141" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907077" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KIWI04RR" } ,
+        "cruise_id": { "type": "literal" , "value": "KIWI04RR" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904664" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0208" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0208" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903093" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0211" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0211" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903096" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0306" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0306" } ,
+        "doi": { "type": "literal" , "value": "10.7284/901680" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0315" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0315" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903098" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0321" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0321" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903036" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0325" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0325" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903037" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0408" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0408" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903038" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0508" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0508" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903039" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0513" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0513" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903040" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0515" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0515" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903049" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0517" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0517" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903102" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0519" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0519" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903103" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0601" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0601" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903050" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0605" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0605" } ,
+        "doi": { "type": "literal" , "value": "10.7284/901729" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0608" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0608" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903051" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0611" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0611" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903052" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0614" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0614" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903053" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0617" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0617" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903054" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0621" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0621" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903055" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0624" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0624" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903115" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0627" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0627" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903056" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0630" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0630" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903057" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0633" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0633" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903058" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0705" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0705" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903059" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0707" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0707" } ,
+        "doi": { "type": "literal" , "value": "10.7284/902375" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0709" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0709" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903061" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0714" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0714" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903062" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0717" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0717" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903063" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0722" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0722" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903064" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0724" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0724" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903065" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0801" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0801" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903066" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0802" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0802" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903067" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0806" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0806" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903068" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0811" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0811" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903069" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0813" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0813" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903070" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0815" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0815" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903075" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0820" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0820" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903076" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0822" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0822" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903077" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0824" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0824" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903078" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0902" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0902" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903628" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0907" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0907" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903633" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0915" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0915" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903641" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0918" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0918" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903644" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM0920" } ,
+        "cruise_id": { "type": "literal" , "value": "KM0920" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903646" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1012" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1012" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903662" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1015" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1015" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903665" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1017" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1017" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903667" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1019" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1019" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903669" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1101" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1101" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903675" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1102A" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1102A" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903676" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1108" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1108" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903681" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1113" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1113" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903684" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1120" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1120" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903689" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1124" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1124" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903693" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1127" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1127" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903695" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1131" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1131" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903700" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1205" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1205" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903703" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1213" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1213" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903710" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1216" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1216" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903713" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1218" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1218" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903715" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1220" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1220" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903717" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1223" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1223" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903319" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1227" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1227" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903722" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1302" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1302" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903320" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1305" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1305" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903335" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1308" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1308" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903333" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1311" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1311" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903321" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1315" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1315" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903322" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1317" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1317" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903334" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1319" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1319" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903336" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1321" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1321" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903312" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1323" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1323" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903311" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1402" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1402" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903318" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1406" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1406" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904082" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1408" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1408" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903314" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1410" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1410" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903010" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1414" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1414" } ,
+        "doi": { "type": "literal" , "value": "10.7284/902644" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1419" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1419" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904084" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1421" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1421" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904791" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1425" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1425" } ,
+        "doi": { "type": "literal" , "value": "10.7284/902179" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1428" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1428" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904792" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1504" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1504" } ,
+        "doi": { "type": "literal" , "value": "10.7284/900798" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1508" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1508" } ,
+        "doi": { "type": "literal" , "value": "10.7284/901823" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1510" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1510" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906351" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1512" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1512" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906353" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1518" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1518" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906359" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1601" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1601" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906869" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1602" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1602" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906870" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1603" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1603" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906871" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1702" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1702" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907434" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KM1708" } ,
+        "cruise_id": { "type": "literal" , "value": "KM1708" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907521" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KN195-07" } ,
+        "cruise_id": { "type": "literal" , "value": "KN195-07" } ,
+        "doi": { "type": "literal" , "value": "10.7284/900500" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0001" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0001" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904291" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0004" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0004" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904315" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0005" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0005" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904316" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0007" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0007" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904295" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0009" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0009" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904296" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0010" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0010" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904297" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0012" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0012" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904298" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0014" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0014" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904299" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0016" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0016" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904300" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0017" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0017" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904301" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0020" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0020" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904240" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0102" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0102" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904200" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0103" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0103" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904201" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0105" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0105" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904210" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0106" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0106" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904202" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0107" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0107" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904242" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0109" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0109" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904243" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0110" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0110" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904244" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0112" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0112" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904303" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0115" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0115" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904304" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0117" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0117" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904305" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0119" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0119" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904245" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0121" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0121" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904246" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0201" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0201" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904247" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0204" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0204" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904248" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0205" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0205" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904249" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0206" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0206" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904250" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0210" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0210" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904252" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0220" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0220" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904253" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0301" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0301" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904254" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0304" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0304" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904255" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0307" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0307" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904256" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0308" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0308" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904257" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0310" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0310" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904259" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0313" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0313" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904260" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0401" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0401" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907078" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0403" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0403" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904261" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0404" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0404" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904262" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0407" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0407" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904263" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0408" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0408" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904264" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0411" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0411" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904265" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0415" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0415" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904266" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0422" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0422" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904267" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0425" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0425" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904306" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0428" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0428" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904307" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0435" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0435" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904308" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0514" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0514" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904309" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0518" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0518" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904310" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0608" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0608" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904311" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0704" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0704" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904312" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0706" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0706" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904313" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0713" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0713" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904314" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0909" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0909" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904277" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0916" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0916" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904278" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0917" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0917" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904279" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK0920" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK0920" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904280" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1004" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1004" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904281" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1005" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1005" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904290" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1007" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1007" } ,
+        "doi": { "type": "literal" , "value": "10.7284/900846" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1011" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1011" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904282" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1013" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1013" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904317" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1107" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1107" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904318" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1113" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1113" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903324" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1114" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1114" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904154" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1201" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1201" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904191" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1202" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1202" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904319" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1205" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1205" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904268" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1404" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1404" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904293" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1502" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1502" } ,
+        "doi": { "type": "literal" , "value": "10.7284/901832" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1503" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1503" } ,
+        "doi": { "type": "literal" , "value": "10.7284/901833" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1508" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1508" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906363" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1512" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1512" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906366" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1515" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1515" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906369" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1516" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1516" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906881" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1605" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1605" } ,
+        "doi": { "type": "literal" , "value": "10.7284/906878" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1608" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1608" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907475" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/KOK1611" } ,
+        "cruise_id": { "type": "literal" , "value": "KOK1611" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907476" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW8912" } ,
+        "cruise_id": { "type": "literal" , "value": "MW8912" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903107" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9208" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9208" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907007" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9812" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9812" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907061" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9817" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9817" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907064" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9820" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9820" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907065" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9901" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9901" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903104" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9904" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9904" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903105" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9905" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9905" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903106" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9906" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9906" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907069" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/MW9909" } ,
+        "cruise_id": { "type": "literal" , "value": "MW9909" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907070" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/OC1605B" } ,
+        "cruise_id": { "type": "literal" , "value": "OC1605B" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907145" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/OC1610A" } ,
+        "cruise_id": { "type": "literal" , "value": "OC1610A" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907158" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/SKQ201615S" } ,
+        "cruise_id": { "type": "literal" , "value": "SKQ201615S" } ,
+        "doi": { "type": "literal" , "value": "10.7284/907442" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/TN258" } ,
+        "cruise_id": { "type": "literal" , "value": "TN258" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904014" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/TN294" } ,
+        "cruise_id": { "type": "literal" , "value": "TN294" } ,
+        "doi": { "type": "literal" , "value": "10.7284/902573" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/TUIM09MV" } ,
+        "cruise_id": { "type": "literal" , "value": "TUIM09MV" } ,
+        "doi": { "type": "literal" , "value": "10.7284/904049" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/W0501C" } ,
+        "cruise_id": { "type": "literal" , "value": "W0501C" } ,
+        "doi": { "type": "literal" , "value": "10.7284/903129" }
+      } ,
+      {
+        "cruise": { "type": "uri" , "value": "http://data.rvdata.us/id/cruise/W0503A" } ,
+        "cruise_id": { "type": "literal" , "value": "W0503A" } ,
+        "doi": { "type": "literal" , "value": "10.7284/900697" }
+      }
+    ]
+  }
+}
