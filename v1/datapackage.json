@@ -1,0 +1,21 @@
+{
+   "name":"hot-niskin-bottle-sample-data",
+   "profile":"data-package",
+   "author":[
+      {
+         "name": "Dr Matthew J. Church"
+      }
+   ],
+   "title":"CTD measurements at water sample depths and Niskin bottle water samples from the Hawaii Ocean Time-Series cruises ongoing starting in 1988 (HOT project)",
+   "description":"Monthly measurements of the thermohaline structure, water column chemistry, and primary production were collected at station ALOHA as part of the HOT program.",
+   "keywords":[
+      "HOT",
+      "bottle",
+      "Niskin"
+   ],
+   "license":{
+      "type":"CC-BY-4.0",
+      "url":"https://creativecommons.org/licenses/by/4.0/"
+   },
+   "version":"10 July 2017"
+}

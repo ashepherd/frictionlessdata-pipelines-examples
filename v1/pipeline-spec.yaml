@@ -1,0 +1,82 @@
+jsonld-xls:
+  title: Testing Semantics w. XLS file
+  pipeline:
+    -
+      run: load_metadata
+      parameters:
+        url: ./datapackage.json
+    -
+      run: add_metadata
+      parameters:
+        '@context':
+          odo: 'http://ocean-data.org/schema/'
+          datacite: 'http://purl.org/spar/datacite/'
+          dcterms: 'http://purl.org/dc/terms/'
+          foaf: 'http://xmlns.com/foaf/0.1'
+          rdf: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+          xsd: 'http://www.w3.org/2001/XMLSchema#'
+        name: 'hot-niskin-bottle-samples'
+        created: '2017-07-10T12:48:35-04:00'
+        '@graph':
+          '@type': 'odo:Dataset'
+          dcterms:publisher:
+            '@id': 'http://lod.bco-dmo.org/id/affiliation/191'
+          odo:validated:
+            '@type': 'xsd:boolean'
+            '@value': true
+          odo:restricted:
+            '@type': 'xsd:boolean'
+            '@value': false
+          odo:hasAgentWithRole:
+              '@type': 'odo:LeadPrincipalInvestigatorRole'
+              odo:isPerformedBy:
+                '@type': 'odo:Person'
+                foaf:title: 'Dr'
+                foaf:givenName: 'Matthew'
+                odo:middleName: 'J.'
+                foaf:familyName: 'Church'
+                dcterms:identifier:
+                  '@type': 'datacite:PersonalIdentifier'
+                  '@value': '0000-0002-1173-4195'
+                  datacite:usesIdentifierScheme:
+                    '@id': 'datacite:orcid'
+              odo:forOrganization:
+                '@type': 'odo:Organization'
+                foaf:name:
+                  '@language': 'en-US'
+                  '@value': 'University of Hawaii at Manoa'
+                odo:hasOrganizationSubname:
+                  '@language': 'en-US'
+                  '@value': 'School of Ocean & Earth Science & Technology'
+                odo:hasAcronym: 'SOEST'
+          odo:hasAward:
+            '@id': 'http://lod.bco-dmo.org/id/award/54915'
+            '@type': 'odo:GrantAward'
+            odo:hasAwardNumber: 'OCE-0926766'
+            odo:hasAwardUrl:
+              '@value': 'http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0926766'
+              '@type': 'xsd:anyURI'
+            odo:hasFundingSource:
+              '@id': 'http://lod.bco-dmo.org/id/funding/355'
+            odo:hasAgentWithRole:
+              '@type': 'odo:ProgramManagerRole'
+              odo:isPerformedBy:
+                '@id': 'http://lod.bco-dmo.org/id/person/50534'
+        sources:
+          -
+            title: 'Biological and Chemical Oceanography Data Management Office'
+            path: 'https://www.bco-dmo.org/dataset/3773'
+    -
+      run: add_resource
+      parameters:
+        url: ./dataset_3773.xlsx
+        sheet: 1
+        encoding: 'utf-8'
+        name: 'niskin-bottle-samples'
+    -
+      run: stream_remote_resources
+      cache: True
+    -
+      run: dump.to_path
+      parameters:
+          out-path: result
