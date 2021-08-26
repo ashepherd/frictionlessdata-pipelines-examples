@@ -1,5 +1,5 @@
 r2r-hot-cruise-dois-json:
-  title: Testing Joins w. Dataset 3773
+  title: Testing Custom Processor and SPARQL endpoint data
   pipeline:
     -
       run: add_metadata
